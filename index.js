@@ -8,6 +8,6 @@ function writeCards(names, event){
 }
 
 countDown = 11;
-while ( countDown > 1 ){
+while ( countDown > 0 ){
   console.log(countDown--);
 }
