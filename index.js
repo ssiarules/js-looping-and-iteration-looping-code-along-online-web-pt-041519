@@ -11,5 +11,3 @@ countDown = 11;
 while ( countDown > 1 ){
   console.log(countDown--);
 }
-
-
